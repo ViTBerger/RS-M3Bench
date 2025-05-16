@@ -1,4 +1,4 @@
-Official Repository for RS-M<sup>3</sup>Bench: A Multi-Granularity, Multi-Task, Multi-Resolution Benchmark for Scalable Evaluation of Remote Sensing Vision-Language Models
+<font size='5'>**Official Repository for RS-M<sup>3</sup>Bench: A Multi-Granularity, Multi-Task, Multi-Resolution Benchmark for Scalable Evaluation of Remote Sensing Vision-Language Models**</font>
 
 ==================
 <a href='https://huggingface.co/datasets/xiang709/VRSBench'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'>
