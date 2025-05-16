@@ -9,7 +9,7 @@ The rise of remote sensing vision-language models (RS-VLMs) has revolutionized g
 
 ## Using `datasets`
 
-The dataset can be downloaded from [link]([https://huggingface.co/datasets/xiang709/VRSBench](https://huggingface.co/datasets/RemoteReason-JLU/RS-M3Bench)) and used via the Hugging Face `datasets` library. To load the dataset, you can use the following code snippet:
+The dataset can be downloaded from [link](https://huggingface.co/datasets/RemoteReason-JLU/RS-M3Bench) and used via the Hugging Face `datasets` library. To load the dataset, you can use the following code snippet:
 
 ```python
 from datasets import load_dataset
